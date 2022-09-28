@@ -1,2 +1,5 @@
-# longevity_gene_regulatory_network
-Обучающий репозиторий для понимания применения генно-регуляторных сетей для влияния на продолжительность жизни
+# Longevity gene regulatory network
+
+Educational repository for understanding the use of gene regulatory networks to influence lifespan
+
+Another languages: [RU](README.ru.md)
