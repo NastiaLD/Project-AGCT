@@ -9,5 +9,5 @@
 - [Страница проекта на сайте Open Longevity RU (старая версия)](https://openlongevity.org/ru/project-agct)
 - [Страница проекта на сайте Open Longevity EN (старая версия)](https://openlongevity.org/project-agct)
 
-Subprojects:
-- [Survival curves analysis](survival_curves_analysis/)
+Подпроекты:
+- [Анализ кривых выживаемости](survival_curves_analysis/)
